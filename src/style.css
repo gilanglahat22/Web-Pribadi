@@ -34,8 +34,8 @@
 
 .jumbotron .display-4 {
   color: white;
-  margin-top: 55px;
-  font-weight: 200;
+  margin-top: 50px;
+  font-weight: 6000px;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
   font-size: 36px;
   margin-bottom: 30px;
@@ -48,10 +48,11 @@
 .panel {
   box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
   border-radius: 12px;
-  margin-top: -100px;
+  margin-top: -155px;
+  margin-bottom: 150px;
   background-color: white;
   text-align: center;
-  padding: 25px;
+  padding: 20px;
 }
 
 .panel img {
@@ -97,9 +98,13 @@
   }
   .jumbotron {
     margin-top: -75px;
-    height: 750px;
+    height: 1100px;
   }
   .jumbotron .display-4 {
-    font-size: 55px;
+    font-size: 50px;
+  }
+  .jumbotron .lead {
+    color: white;
+    font-size: 20px;
   }
 }
