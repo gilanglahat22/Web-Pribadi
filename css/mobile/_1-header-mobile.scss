@@ -1,51 +1,47 @@
-#header{
+#header {
     height: 90vh;
     min-height: 600px;
     flex-direction: column;
     justify-content: space-evenly;
     padding-left: 0vw;
-    
-    #name-title{
+    #name-title {
         max-width: 90%;
         padding-left: 0;
         align-items: center;
         flex-direction: column;
         padding-top: 50px;
-
-        #header-title1{
+        #header-title1 {
             width: 100%;
-            h1{
-                span{
-                    font-size: 8vw;
+            h1 {
+                span {
+                    font-size: 6vw;
                 }
             }
         }
-        #header-title2{
+        #header-title2 {
             margin-top: 2.5%;
             padding-left: 2%;
-
-            h3{
-                span{
-                    font-size: 4.6vw;
+            h3 {
+                span {
+                    font-size: 4.2vw;
                     margin: 0px;
                 }
             }
         }
     }
-    #header-image{
-        #profile-box{
+    #header-image {
+        #profile-box {
             width: 55vw;
             overflow: hidden;
             left: 0%;
             top: 17.5%;
         }
     }
-
-    #scroll-down{
-        p{
+    #scroll-down {
+        p {
             font-size: 11px;
         }
-        img{
+        img {
             width: 60%;
             height: 70%;
         }
