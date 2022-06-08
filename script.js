@@ -294,59 +294,57 @@ function charming(
 
 //--------------------------------work----------------------------
 const works = [{
-        id: "bjm",
-        name: "Banjarmasin",
-        subName: "Dummy Project",
-        description: "this very-very simple static website is a dummy project originally created for a college assigment. originally created with vanilla css then recreated with tailwind to hone my tailwind skill. i decided to add this to my portofolio because i think the UI design of this site is looks pretty decent.",
-        mainImg: "img/work/bjm/bjm1.jpg",
-        mainImgMobile: "img/work/bjm/bjm1-2.jpg",
-        link: "https://ryrd-tailwind-test.netlify.app",
+        id: "compress",
+        name: "Image Compressing",
+        subName: "Linear Algebra Project",
+        description: "This project was created by my friends and me at the Linear Algebra class project. In the project, we created web image compressing using python and flask as the tools and Singular Value The Composition which Algorithm for compositing RGB matrix value from the image which input from directory user.",
+        mainImg: "img/work/compress/compress.png",
+        mainImgMobile: "img/work/compress/compress.png",
+        link: "https://github.com/gilanglahat22/Algeo02-20137",
         imgs: [
-            "img/work/bjm/bjm1.jpg",
-            "img/work/bjm/bjm2.jpg",
-            "img/work/bjm/bjmm.jpg"
+            "img/work/compress/compress.png",
+            "img/work/compress/compress2.png"
         ]
     },
     {
-        id: "expense-tracker",
-        name: "Expense tracker PWA",
-        subName: "Dummy Project",
-        description: "this web app is is a dummy project created to hone my skill with typescript, tailwind, and create futuristic UI with figma. The purpose of this web app is to track daily expenses. and this web app can be installed like native app because of progressive web app (PWA) feature. yeah.. UI for this web app is overkill, but because main purpose of creating this web app is for excercise only and i want to create a futuristic UI design so i applied futuristic design to this project.<br>created with :<br>- Tailwind<br>- Typescript",
-        mainImg: "img/work/et/et.jpg",
-        mainImgMobile: "img/work/et/et1-2.jpg",
-        link: "https://ryrd-expense-tracker.netlify.app",
+        id: "Electrify",
+        name: "Electrify",
+        subName: "Software Engineering Project",
+        description: "This project is a software engineering class project was created by my friends and me which given from early week until last week class at 4th semester in the college. In this project, like software engineer, we prepare the construction software include observing and analyzing many factor and component which effect to the software. Then, in the end we implementing the software as well as our construction. <br>created with :<br>- Python<br>- SQL",
+        mainImg: "img/work/electrify/Electrify.png",
+        mainImgMobile: "img/work/electrify/Electrify.png",
+        link: "https://github.com/gilanglahat22/Electrify",
         imgs: [
-            "img/work/et/et.jpg",
-            "img/work/et/etm.jpg"
+            "img/work/electrify/Electrify.png",
+            "img/work/electrify/Electrify1.png",
+            "img/work/electrify/Electrify2.png"
         ]
     },
     {
         id: "survey-app",
-        name: "Survei Kepuasan Layanan Masyarakat",
-        subName: "Pengadilan Negeri Banjarmasin Kelas 1A",
-        description: "this web application is created to automate service satisfaction survey at Banjarmasin District Court who previously calculated manually. this Web App is hosted in Banjarmasin District Court local server, so this web can't accessed online. but here some screenshot of this web app.",
-        mainImg: "img/work/pengadilan/pengadilan1.jpg",
-        mainImgMobile: "img/work/pengadilan/pengadilan1-2.jpg",
-        link: null,
+        name: "Minecraft-Aether-Realm-Wars",
+        subName: "Object Oriented Programming Project",
+        description: "Minecraft-Aether-Realm-Wars was amazing game project that My friends and I created at 4th College Semester. In this project, we used gradle as the build tools and object oriented programming for implementing all of logic algorithm.",
+        mainImg: "img/work/minecraft/Minecraft.png",
+        mainImgMobile: "img/work/minecraft/Minecraft.png",
+        link: "https://github.com/gilanglahat22/Minecraft-Aether-Realm-Wars",
         imgs: [
-            "img/work/pengadilan/pengadilan1.jpg",
-            "img/work/pengadilan/pengadilan7.jpg",
-            "img/work/pengadilan/pengadilan2.jpg",
-            "img/work/pengadilan/pengadilan3.jpg"
+            "img/work/minecraft/Minecraft.png",
+            "img/work/minecraft/Minecraft2.png",
+            "img/work/minecraft/Minecraft3.png"
         ]
     },
     {
-        id: "stylish-wear",
-        name: "Stylish Wear",
-        subName: "Dummy Project",
-        description: "stylish wear is a dummy website showing few information about clothes.<br>created with :<br>- HTML, CSS, Javascript<br>- GSAP<br>- Swiper.js<br>- Pace.js",
-        mainImg: "img/work/sw/sw2.jpg",
-        mainImgMobile: "img/work/sw/sw5.jpg",
-        link: "https://stylish-wear.netlify.app",
+        id: "Folder-Crawling",
+        name: "Folder Crawling",
+        subName: "DFS and BFS Algorithm Project",
+        description: "Folder Crawling is tools that served with GUI for searching our file in the directory which input by user. After input them, we can get the path and visualization of the file track from root directory until destination folder location.<br>created with :<br>- C#",
+        mainImg: "img/work/folder_crawling/project1_1.png",
+        mainImgMobile: "img/work/folder_crawling/project1.png",
+        link: "https://github.com/gilanglahat22/Folder_Crawling",
         imgs: [
-            "img/work/sw/sw1.jpg",
-            "img/work/sw/sw2.jpg",
-            "img/work/sw/sw3.jpg",
+            "img/work/folder_crawling/project1.png",
+            "img/work/folder_crawling/project1_1.png",
         ]
     },
 ];
